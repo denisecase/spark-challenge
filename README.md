@@ -61,7 +61,6 @@ java -cp target/spark-challenge-1.0.0-jar-with-dependencies.jar edu.nwmissouri.i
 
 ## Challenges - Getting Started
 
-1. Create data.txt in the root project folder.
 1. Where does program execution begin?
 1. Update the main method to check that exactly one argument is provided.
 1. If not, output a message and call System.exit(0);
@@ -148,7 +147,7 @@ Create a new private static void process method that takes one argment, a String
 
 ## Finalize
 
-1. Create a cloud repo named "spark-challenge". Do not add a README in the cloud.
-1. Create a git repo in your local folder.
+1. Create a cloud repo named "spark-challenge". Do NOT add a README in the cloud.
+1. Create a git repo in your local spark-challenge folder.
 1. Add and commit all files locally.
 1. Push your code to your cloud repo.
